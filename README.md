@@ -1,1 +1,1 @@
-# figma_portfolio
+# my-portfolio-figma
